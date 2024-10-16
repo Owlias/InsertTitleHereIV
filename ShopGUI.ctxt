@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ShopGUI
+comment0.text=\n\ Write\ a\ description\ of\ class\ Troll\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=stage
+comment1.target=ShopGUI(int)
+comment2.params=world
+comment2.target=void\ createButtons(MyWorld)
+comment3.params=world
+comment3.target=void\ removeButtons(MyWorld)
+comment4.params=
+comment4.target=void\ updateImage()
+comment5.params=
+comment5.target=void\ act()
+numComments=6

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=UIButton
+comment1.params=text
+comment1.target=UIButton(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ updateImage()
+comment4.params=
+comment4.target=void\ typingFailure()
+comment5.params=
+comment5.target=void\ onClick()
+comment6.params=ms
+comment6.target=void\ wait(int)
+numComments=7

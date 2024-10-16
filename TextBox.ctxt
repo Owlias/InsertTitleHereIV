@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TextBox
+comment1.params=text\ width\ height\ backgroundColor\ textColor
+comment1.target=TextBox(java.lang.String,\ int,\ int,\ greenfoot.Color,\ greenfoot.Color)
+comment2.params=
+comment2.target=void\ updateImage()
+comment3.params=newText
+comment3.target=void\ setText(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getText()
+numComments=5

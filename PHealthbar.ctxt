@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=PHealthbar
+comment0.text=\n\ Write\ a\ description\ of\ class\ PHealthbar\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=p
+comment1.target=PHealthbar(Player)
+comment2.params=
+comment2.target=void\ updateImage()
+comment3.params=newText
+comment3.target=void\ setText(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getText()
+comment5.params=
+comment5.target=void\ act()
+numComments=6
